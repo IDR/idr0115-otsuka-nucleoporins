@@ -1,0 +1,99 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.
+
+# STUDY DESCRIPTION SECTION															
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details																											
+Comment[IDR Study Accession]	idr0115																												
+Study Title	A quantitative map of nuclear pore assembly 																											
+Study Type	time-lapse imaging																											
+Study Type Term Source REF	OMIT																											
+Study Type Term Accession	OMIT_0027490																												
+Study Description	3D time-lapse imaging of nucleoporins.																											
+Study Key Words	nuclear pore	mitosis	cell cycle																											
+Study Organism	Homo sapiens																											
+Study Organism Term Source REF	NCBITaxon																											
+Study Organism Term Accession	9606																												
+Study Experiments Number	1																											
+Study External URL	
+
+
+Study BioImage Archive Accession																											
+Study Public Release Date																																						
+# Study Publication																												
+Study PubMed ID																												
+Study Publication Title	A quantitative map of nuclear pore assembly reveals two distinct mechanisms																											
+Study Author List	Otsuka S, Tempkin JOB, Zhang W, Politi AZ, Rybina A, Hossain MJ, Kueblbeck M, Callegari A, Koch B, Sali A, Ellenberg J																										
+Study PMC ID																												
+Study DOI																											
+															
+# Study Contacts																												
+Study Person Last Name	Otsuka	Ellenberg																										
+Study Person First Name	Shotaro	Jan																										
+Study Person Email	shotaro.otsuka@univie.ac.at	jan.ellenberg@embl.de																										
+Study Person Address	Max Perutz Labs, a joint venture of the University of Vienna and the Medical University of Vienna, Vienna Biocenter (VBC), Dr. Bohr Gasse 9, 1030 Vienna, Austria	Cell Biology and Biophysics Unit, European Molecular Biology Laboratory, Meyerhofstrasse 1, 69117 Heidelberg, Germany																										
+Study Person ORCID	0000-0003-3976-0843	0000-0001-5909-701X																										
+Study Person Roles	corresponding author, submitter	corresponding author																										
+																												
+# Study License and Data DOI																												
+Study License	CC BY 4.0																											
+Study License URL	https://creativecommons.org/licenses/by/4.0/																											
+Study Copyright	Otsuka et al																											
+Study Data Publisher	University of Dundee																												
+Study Data DOI																																								
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																								
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																								
+																												
+# EXPERIMENT SECTION															
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment																
+Experiment Number	1																											
+Comment[IDR Experiment Name]	idr0115-otsuka-nucleoporins/experimentA		
+
+
+Experiment Sample Type cell
+																										
+Experiment Description	3D time-lapse imaging of nucleoporins and DNA during mitosis exit.																											
+Experiment Size	5D Images: 108	Average Image Dimension (XYZCT): 150 x 150 x 21 x 2 x 240	Total Tb: 0.0385																									
+Experiment Example Images																												
+Experiment Imaging Method	confocal microscopy																											
+Experiment Imaging Method Term Source REF	FBbi																											
+Experiment Imaging Method Term Accession	FBbi_00000251																												
+Experiment Organism																												
+Experiment Organism Term Source REF																												
+Experiment Organism Term Accession																												
+Experiment Comments																																							
+# assay files																												
+Experiment Assay File	idr0115-experimentA-annotation																											
+Experiment Assay File Format	tab-delimited text																											
+Assay Experimental Conditions																												
+Assay Experimental Conditions Term Source REF	EFO																											
+Assay Experimental Conditions Term Accession																												
+Quality Control Description																												
+																												
+# Protocols																												
+Protocol Name	growth protocol	image acquisition and feature extraction protocol	data analysis protocol																									
+Protocol Type	growth protocol	image acquisition and feature extraction protocol	data analysis protocol																									
+Protocol Type Term Source REF	EFO																											
+Protocol Type Term Accession																												
+Protocol Description	Cells were grown in high glucose Dulbecco’s Modified Eagle’s Medium (DMEM) containing 4.5 g/l D-glucose (Sigma Aldrich, St. Louis, MO) supplemented with 10% fetal calf serum (FCS), 2 mM l-glutamine, 1 mM sodium pyruvate, and 100 _g/ml penicillin and streptomycin at 37 °C and 5% CO2.	On the day of live-cell imaging, DMEM was replaced by imaging medium: CO2-independent medium without phenol red (Invitrogen) containing 20% FCS, 2 mM l-glutamine, and 100 _g/ml penicillin and streptomycin. The imaging medium was supplemented with 50 nM silicon-rhodamine (SiR) Hoechst.	Cells were imaged in 3D using a confocal microscope (LSM780; Carl Zeiss, Oberkochen, Germany) and a 40_ 1.2 NA C-Apochromat water immersion objective (Carl Zeiss) at 37 °C in a microscope-body-enclosing incubator.																																															
+# Phenotypes																												
+Phenotype Name	nucleoporin assembly during mitosis exit																											
+Phenotype Description	Localization of nucleoporins by 3D live imaging																											
+Phenotype Score Type	manual																											
+Phenotype Term Source REF	CMPO																											
+Phenotype Term Name	nucleoporin assembly on chromosomes during mitosis exit																											
+Phenotype Term Accession			 																																																
+# Feature Level Data Files (give individual file details unless there is one file per well)																												
+Feature Level Data File Name																												
+Feature Level Data File Format																												
+Feature Level Data File Description																												
+Feature Level Data Column Name																												
+Feature Level Data Column Description																												
+																												
+#  Processed Data Files 																												
+Processed Data File Name	processed data NUP62	processed data NUP93	processed data NUP107	processed data NUP153	processed data NUP188	processed data NUP205	processed data NUP214	processed data POM121	processed data RANBP2	processed data SEHL1	processed data TPR																	
+Processed Data File Format	excel																											
+Processed Data File Description	This file contains information of nuclear volume, nuclear surface area, Nup fluorescence intensity in inner-core and noncore regions, background intensity, and the normalized intensity.  																											
+Processed Data Column Name	Time Point	Time after anaphase onset (min)	Volume_Nucleus_1 (um3)	SurfaceArea_Nucleus_1 (um2)	Volume_Nucleus_2 (um3)	SurfaceArea_Nucleus_2 (um2)	Average_Intensity_InnerCore_1	Average_Intensity_InnerCore_2	Average_Intensity_NonCore_1	Average_Intensity_NonCore_2	Intensity_cytoplasm	Intensity_nucleoplasm	Corrected_intensity_nucleoplasm	"Background_intensity (cyto*25%, nuc*75%)"		Background_intensity_to_be_subtracted	Average_Intensity_InnerCore_1_background_subtracted	Average_Intensity_InnerCore_2_background_subtracted	Average_Intensity_NonCore_1_background_subtracted	Average_Intensity_NonCore_2_background_subtracted	Total_Intensity_InnerCore_1	Total_Intensity_InnerCore_2	Total_Intensity_NonCore_1	Total_Intensity_NonCore_2	Normalized_total_Intensity_InnerCore_1	Normalized_total_Intensity_InnerCore_2	Normalized_total_Intensity_NonCore_1	Normalized_total_Intensity_NonCore_2
+Processed Data Column Type		minute	um3	um2	um3	um2																						
+Processed Data Column Annotation Level																												
+Processed Data Column Description																										
+Processed Data Column Link To Assay File													
