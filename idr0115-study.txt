@@ -48,7 +48,7 @@ Experiment Number	1
 Comment[IDR Experiment Name]	idr0115-otsuka-nucleoporins/experimentA		
 
 
-Experiment Sample Type cell
+Experiment Sample Type	cell
 																										
 Experiment Description	3D time-lapse imaging of nucleoporins and DNA during mitosis exit.																											
 Experiment Size	5D Images: 108	Average Image Dimension (XYZCT): 150 x 150 x 21 x 2 x 240	Total Tb: 0.0385																									
