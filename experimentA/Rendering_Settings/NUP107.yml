@@ -1,0 +1,22 @@
+---
+channels:
+    1:
+        active: true
+        color: FF00FF
+        end: 2000.0
+        label: Nucleoporin
+        max: 4095.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: 00FFFF
+        end: 4000.0
+        label: DNA
+        max: 4095.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 11
