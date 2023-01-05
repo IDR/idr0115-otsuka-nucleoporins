@@ -19,11 +19,11 @@ Study External URL
 Study BioImage Archive Accession																											
 Study Public Release Date	2022-05-05																																						
 # Study Publication																												
-Study PubMed ID																												
+Study PubMed ID	36599981																											
 Study Publication Title	A quantitative map of nuclear pore assembly reveals two distinct mechanisms																											
-Study Author List	Otsuka S, Tempkin JOB, Zhang W, Politi AZ, Rybina A, Hossain MJ, Kueblbeck M, Callegari A, Koch B, Sali A, Ellenberg J																										
+Study Author List	Otsuka S, Tempkin JOB, Zhang W, Politi AZ, Rybina A, Hossain MJ, Kueblbeck M, Callegari A, Koch B, Morero NR, Sali A, Ellenberg J																										
 Study PMC ID																												
-Study DOI																											
+Study DOI	https://doi.org/10.1038/s41586-022-05528-w																											
 															
 # Study Contacts																												
 Study Person Last Name	Otsuka	Ellenberg																										
